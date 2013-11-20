@@ -13,7 +13,7 @@
   <remote  name="xplodwild"
            fetch="https://github.com/xplodwild/" />
 
-  <default revision="refs/tags/android-4.4_r1.1"
+  <default revision="refs/tags/android-4.4_r1.2"
            remote="aosp"
            sync-j="4" />
 
@@ -34,7 +34,6 @@
   <project path="developers/samples/android" name="platform/developers/samples/android" />
   <project path="development" name="platform/development" />
   <project path="device/asus/flo" name="android_device_asus_flo" remote="DJLIII" revision="DJL4.4" />
-  <project path="device/asus/flo-kernel" name="device/asus/flo-kernel" groups="device,flo" />
   <project path="device/common" name="device/common" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" />
@@ -294,6 +293,7 @@
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" groups="omap4" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
   <project path="hardware/ti/wpan" name="platform/hardware/ti/wpan" />
+  <project path="kernel/google/msm" name="android_kernel_google_msm" remote="DJLaMontagneIII" revision="DJL4.4" />
   <project path="libcore" name="platform/libcore" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" />
