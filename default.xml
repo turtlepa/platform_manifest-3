@@ -5,7 +5,7 @@
            fetch="https://android.googlesource.com/" />
 
   <remote name="DJLIII"
-           fetch="https://github.com/DJLaMontagneIII/" />
+           fetch="https://github.com/DJL4-4/" />
 
   <remote  name="CM"
            fetch="https://github.com/CyanogenMod/" />
