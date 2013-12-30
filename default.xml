@@ -315,7 +315,7 @@
   <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts" />
   <project path="packages/apps/ContactsCommon" name="platform/packages/apps/ContactsCommon" />
   <project path="packages/apps/DeskClock" name="android_packages_apps_DeskClock" remote="DJLIII" revision="DJL4.4" />
-  <project path="packages/apps/DeskClock" name="packages_apps_DashClock" remote="DJLIII" revision="kk4.4" />
+  <project path="packages/apps/DashClock" name="packages_apps_DashClock" remote="DJLIII" revision="kk4.4" />
   <project path="packages/apps/Dialer" name="platform/packages/apps/Dialer" />
   <project path="packages/apps/Email" name="android_packages_apps_Email" remote="DJLIII" revision="DJL4.4" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
