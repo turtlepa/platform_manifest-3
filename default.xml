@@ -10,9 +10,6 @@
   <remote  name="CM"
            fetch="https://github.com/CyanogenMod/" />
 
-  <remote  name="xplodwild"
-           fetch="https://github.com/xplodwild/" />
-
   <remote  name="SM"
            fetch="https://github.com/SaberMod/" />
 
@@ -121,7 +118,6 @@
   <project path="external/eyes-free" name="platform/external/eyes-free" />
   <project path="external/fdlibm" name="platform/external/fdlibm" />
   <project path="external/flac" name="platform/external/flac" groups="pdk" />
-  <project path="external/focal" name="android_external_Focal" remote="xplodwild" revision="master" />
   <project path="external/freetype" name="platform/external/freetype" groups="pdk" />
   <project path="external/fsck_msdos" name="platform/external/fsck_msdos" />
   <project path="external/fuse" name="android_external_fuse" remote="DJLIII" revision="DJL4.4" />
@@ -319,16 +315,12 @@
   <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts" />
   <project path="packages/apps/ContactsCommon" name="platform/packages/apps/ContactsCommon" />
   <project path="packages/apps/DeskClock" name="android_packages_apps_DeskClock" remote="DJLIII" revision="DJL4.4" />
-  <project path="packages/apps/DashClock" name="packages_apps_DashClock" remote="DJLIII" revision="DJL4.4" />
   <project path="packages/apps/Dialer" name="platform/packages/apps/Dialer" />
   <project path="packages/apps/DSPManager" name="android_packages_apps_DSPManager" remote="DJLIII" revision="DJL4.4" />
   <project path="packages/apps/Email" name="android_packages_apps_Email" remote="DJLIII" revision="DJL4.4" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
-  <project path="packages/apps/Focal" name="android_packages_apps_Focal" remote="xplodwild" revision="master" />
-  <project path="packages/apps/CMFileManager" name="android_packages_apps_CMFileManager" remote="CM" revision="cm-11.0"/>
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
   <project path="packages/apps/Gallery2" name="android_packages_apps_Gallery2" remote="DJLIII" revision="DJL4.4" />
-  <project path="packages/apps/GooManager" name="GooManager_prebuilt" remote="DJLIII" revision="master"/>
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/InCallUI" name="platform/packages/apps/InCallUI" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
